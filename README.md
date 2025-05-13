@@ -2,7 +2,7 @@
 In this project I built and ran Javascript  application uisng NPM as the build tools and succesfully ran the javaScript application
 
 
-## What is Maven
+## What is NPM
 Node Package Manager. It's the default package manager for the Node.js JavaScript runtime environment. Think of it as the equivalent of Maven, but for the JavaScript world. 
 
 ## **Prerequisites**
